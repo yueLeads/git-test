@@ -6,4 +6,5 @@ if __name__=="__main__":
     print("second commit")
     print("third commit ")
     print("hot-fix test")
+    print("hot-fix test2")
 
