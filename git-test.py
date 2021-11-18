@@ -8,4 +8,5 @@ if __name__=="__main__":
     print("hot-fix test")
     print("master test")
     print("hot-fix test2")
+    print("push test")
 
